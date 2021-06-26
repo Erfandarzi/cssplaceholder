@@ -14,5 +14,5 @@ https://github.com/felisat/clustered-federated-learning
 
 
 explianable FL via random forests:
-https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests.git
-https://colab.research.google.com/drive/1iTzhBylC02G4Nm_tOIAe2hPrbeZ5ZNlz#scrollTo=7xng5OJI0dj4&uniqifier=2&line=5
+https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests.git</p>
+https://colab.research.google.com/drive/1iTzhBylC02G4Nm_tOIAe2hPrbeZ5ZNlz#scrollTo=7xng5OJI0dj4&uniqifier=2&line=5</p>
