@@ -9,7 +9,7 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 
 
 Checked FLs:</p>
-https://github.com/felisat/clustered-federated-learning</p>
+https://github.com/felisat/clustered-federated-learning</p></p></p>
 
 
 
