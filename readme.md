@@ -4,7 +4,7 @@ Awesome FL:
 https://github.com/anshulg825/Federated-Learning-Purdue-Project
 
 #####  
-https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+https://github.com/innovation-cat/Awesome-Federated-Machine-Learning<br>
 
 
 
