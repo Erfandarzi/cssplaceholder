@@ -9,9 +9,9 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 
 
 Checked FLs:</p>
-https://github.com/felisat/clustered-federated-learning</p></p></p>
-
-
+https://github.com/felisat/clustered-federated-learning</p></p></p><br>
+<br>
+<br>
 
 explianable FL via random forests:</p>
 https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests.git</p>
